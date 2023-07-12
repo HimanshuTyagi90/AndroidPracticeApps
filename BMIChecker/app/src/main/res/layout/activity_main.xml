@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/edtWeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:autofillHints=""
+        android:hint="@string/hint_wt"
+        android:inputType="number"
+        android:textColor="@color/black"
+        android:textColorHint="#78909C"
+        android:textSize="22sp" />
+
+
+    <EditText
+        android:id="@+id/edtHeightFt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:hint="@string/hint_htF"
+        android:inputType="number"
+        android:textColor="@color/black"
+        android:layout_marginBottom="10dp"
+        android:textColorHint="#78909C"
+        android:textSize="22sp" />
+
+
+
+    <EditText
+        android:id="@+id/edtHeightIn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:hint="@string/hint_htI"
+        android:ems="10"
+        android:inputType="number"
+        android:textColor="@color/black"
+        android:textColorHint="#78909C"
+        android:textSize="22sp" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnCalculate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/calculate_bmi"
+        android:layout_marginTop="11dp"/>
+
+    <TextView
+        android:id="@+id/txtResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/result"
+        android:textSize="21sp"
+        android:textStyle="bold|italic"
+        android:ems="10"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"/>
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

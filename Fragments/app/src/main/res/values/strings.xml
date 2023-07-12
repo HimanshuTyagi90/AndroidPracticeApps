@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmentAtext">FragmentA is here</string>
+    <string name="fragment_b_is_here">Fragment B is here</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_b">Fragment b</string>
+    <string name="go_to_dynamic_fragmentation">Go to dynamic fragmentation</string>
+    <string name="fragment_a_dynamic">Fragment A Dynamic</string>
+    <string name="fragment_b_dynamic">Fragment B Dynamic</string>
+</resources>

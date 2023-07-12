@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListFragment</string>
+    <string name="presidents">Presidents </string>
+    <string name="prime_ministers_of_india">Prime Ministers</string>
+    <string name="title_activity_leader_description">LeaderDescription</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="back_to_leaderboard">Back to leaderBoard</string>
+    <string name="dateofbirth">dateofBirth</string>
+    <string name="leadername">LeaderName</string>
+    <string name="todo">TODO</string>
+</resources>
