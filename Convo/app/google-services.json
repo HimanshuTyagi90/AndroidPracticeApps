@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304006100711",
+    "project_id": "scz-convo",
+    "storage_bucket": "scz-convo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304006100711:android:eeb308ad9d2e7f1b761442",
+        "android_client_info": {
+          "package_name": "com.supercruze.convo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304006100711-kqj38ouo3a1dnsounv3e8jb7qrso5tfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvofeu-pGgn-c-vI289MyMrsxwRrySvno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304006100711-kqj38ouo3a1dnsounv3e8jb7qrso5tfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

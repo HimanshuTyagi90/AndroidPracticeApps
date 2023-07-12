@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UnConvert</string>
+    <string name="convert">Convert</string>
+    <string name="todo">TODO</string>
+    <string name="t1">INCH</string>
+    <string name="text2">CMs</string>
+    <string name="description">Enter value in Inch to get Height in Cm</string>
+</resources>

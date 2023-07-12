@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcometext">"Welcome to Convo "</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="existingAccount">Already Have an Account ! Login Now</string>
+    <string name="add_image">Add Image</string>
+    <string name="signupbtntext">Signup</string>
+    <string name="select_user">Select User</string>
+    <string name="online">Online</string>
+</resources>
